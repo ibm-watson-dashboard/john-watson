@@ -3,7 +3,7 @@ spring:
     name: john-watson
     
 server:
-  port: ${PORT:5000}
+  port: ${PORT:8100}
   
 eureka:
   client:
